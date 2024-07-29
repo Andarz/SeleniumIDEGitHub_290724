@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SeleniumIde
-build_property.ProjectDir = C:\Users\arzja\source\repos\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\2-SeleniumIDE\SeleniumIDE\
+build_property.ProjectDir = C:\Users\arzja\GitHubActionsDemo\2-SeleniumIDE\SeleniumIDE\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
